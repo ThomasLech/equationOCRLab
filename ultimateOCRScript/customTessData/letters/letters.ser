@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TesseractProject>
+  <TessImages>
+    <Images>let.timesnewromani.exp0.tif</Images>
+  </TessImages>
+  <TessBoxFiles>
+    <BoxFiles>let.timesnewromani.exp0.box</BoxFiles>
+  </TessBoxFiles>
+  <FinalTessdata />
+</TesseractProject>

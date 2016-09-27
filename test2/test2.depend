@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472128181 source:c:\users\user\desktop\equationocr\test2\main.cpp
+	<tesseract\baseapi.h>
+	<leptonica\allheaders.h>
+	<iostream>
+

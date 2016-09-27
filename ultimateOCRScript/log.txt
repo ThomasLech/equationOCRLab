@@ -1,0 +1,14 @@
+language = English
+resolution = 600
+columnStyle = 0
+character recognition .. 
+c.png  image pre-processing ...
+c.png  character recognition
+c.png  character recognition 1
+c.png  character recognition 2
+c.png  character recognition 3
+c.png  verifying ...
+formula structure analysis .. 
+c.png  structure analysis
+pg=0 ÇÃÉãÉrçs
+c.png  saving ...
